@@ -1,0 +1,21 @@
+{
+  "name": "cmd-v3",
+  "version": "1.0.0",
+  "description": "一个快速创建vue3文件的命令行工具",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "cv": "./index.js"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "zhutao",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^13.1.0"
+  }
+}
