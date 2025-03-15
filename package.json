@@ -1,6 +1,6 @@
 {
   "name": "cmd-v3",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "一个快速创建vue3文件的命令行工具",
   "main": "index.js",
   "type": "module",
